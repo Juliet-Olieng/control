@@ -43,7 +43,7 @@ function number(arrNum){
     let i=0;
 while( i<arrNum.length){
     console.log("option1",arrNum[i]);
-    if(i===3){
+    if(i===4){
         break;
     }
     i++
